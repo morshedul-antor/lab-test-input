@@ -1,0 +1,633 @@
+Name,Provider,MRP
+Ascitic fluid for Total Albumin,BioMed Diagnostics,550
+Ascitic fluid for Total Protein,BioMed Diagnostics,550
+Ascitic fluid for Cytopathology,BioMed Diagnostics,"1,000"
+ACE (Angiotensin Converting Enzyme),BioMed Diagnostics,"3,500"
+Homocysteine Level,BioMed Diagnostics,"1,500"
+PPG 2hr After Glucose (75gm glucose),BioMed Diagnostics,180
+PPG 2hr After breakfast,BioMed Diagnostics,150
+PPG 2hr after meal / lunch,BioMed Diagnostics,150
+ALT (SGPT),BioMed Diagnostics,400
+AST (SGOT),BioMed Diagnostics,400
+Acid Phosphatase (Total ),BioMed Diagnostics,825
+PPG After Dinner,BioMed Diagnostics,150
+PPG After Breakfast,BioMed Diagnostics,150
+PPG After Lunch,BioMed Diagnostics,150
+Albumin Globulin Ratio,BioMed Diagnostics,750
+Aldolase,BioMed Diagnostics,"1,000"
+Alkaline Phosphatase,BioMed Diagnostics,400
+Ammonia,BioMed Diagnostics,"3,650"
+Amylase (Serum),BioMed Diagnostics,"1,500"
+BUN,BioMed Diagnostics,400
+Bicarbonate (HCO3-),BioMed Diagnostics,375
+C-Peptide,BioMed Diagnostics,700
+CCR (Creatinine Clearance Rate),BioMed Diagnostics,"1,000"
+CK-MB (Isoenzyme),BioMed Diagnostics,"1,000"
+CPK (Creatinine Phosphokinase),BioMed Diagnostics,"1,300"
+CUS (Corr. Urine Sugar),BioMed Diagnostics,50
+Calcium,BioMed Diagnostics,400
+Carbondyoxide (Co2),BioMed Diagnostics,250
+Chloride (Cl-),BioMed Diagnostics,250
+Cholesterol,BioMed Diagnostics,300
+Co2 (Carbondyoxide),BioMed Diagnostics,350
+Creatinine,BioMed Diagnostics,400
+Creatinine Clearance rate,BioMed Diagnostics,800
+Cupper,BioMed Diagnostics,"1,000"
+Direct Bilirubin,BioMed Diagnostics,500
+Electrolyte (BENTH),BioMed Diagnostics,"1,000"
+Electrolytes,BioMed Diagnostics,"1,000"
+FBG (Fasting Blood Glucose),BioMed Diagnostics,150
+FBS (Fasting Blood Sugar),BioMed Diagnostics,150
+FBS (Fasting Blood Sugar) (Glucometer),BioMed Diagnostics,100
+Ferritin Level,BioMed Diagnostics,"1,200"
+Folate Assay,BioMed Diagnostics,"1,000"
+Folic acid,BioMed Diagnostics,"2,000"
+G-6-PDH,BioMed Diagnostics,"1,250"
+GTT,BioMed Diagnostics,500
+Gamma GT,BioMed Diagnostics,900
+Globulin,BioMed Diagnostics,700
+Glucose (FBS) (Glucometer),BioMed Diagnostics,100
+Glucose (RBS) (Glucometer),BioMed Diagnostics,100
+HDL,BioMed Diagnostics,300
+HbA1C,BioMed Diagnostics,"1,100"
+Indirect Bilirubin,BioMed Diagnostics,500
+Iron,BioMed Diagnostics,"1,250"
+LDH (Lactate dehydrogenase),BioMed Diagnostics,"1,200"
+LDL,BioMed Diagnostics,300
+LFT,BioMed Diagnostics,"1,000"
+Lactate,BioMed Diagnostics,"1,000"
+Lipase,BioMed Diagnostics,"1,500"
+Lipid Profile,BioMed Diagnostics,"1,000"
+Lipid profile (BENTH),BioMed Diagnostics,"1,000"
+Lithium,BioMed Diagnostics,"1,000"
+Magnesium,BioMed Diagnostics,"1,200"
+Myoglobin,BioMed Diagnostics,"1,000"
+PO4 (Phosphate),BioMed Diagnostics,475
+Phosphate (PO4) (Inorganic),BioMed Diagnostics,600
+Potassium (K+),BioMed Diagnostics,250
+Pro. BNP,BioMed Diagnostics,"4,200"
+Prostatic Acid Phosphatase,BioMed Diagnostics,800
+RBS (Random Blood Sugar)-Glucometer(BENTH),BioMed Diagnostics,200
+RBS (Random blood sugar),BioMed Diagnostics,150
+RBS (Random blood sugar) (Glucometer),BioMed Diagnostics,100
+S. Albumin,BioMed Diagnostics,400
+SGOT (AST),BioMed Diagnostics,400
+SGPT (ALT),BioMed Diagnostics,400
+Serum Phosphate (PO4) (Inorganic),BioMed Diagnostics,475
+Sodium (Na+),BioMed Diagnostics,400
+TCO2,BioMed Diagnostics,325
+TIBC,BioMed Diagnostics,"1,250"
+Total Albumin,BioMed Diagnostics,400
+Total Bilirubin,BioMed Diagnostics,500
+Total Globulin,BioMed Diagnostics,250
+Total Protein,BioMed Diagnostics,700
+Triglyceride (Tg),BioMed Diagnostics,300
+Troponine-I,BioMed Diagnostics,"1,200"
+Urea,BioMed Diagnostics,400
+Uric Acid,BioMed Diagnostics,400
+VLDL,BioMed Diagnostics,300
+Vitamin A,BioMed Diagnostics,"10,700"
+Vitamin D (OH 25),BioMed Diagnostics,"3,200"
+Vitamin D3,BioMed Diagnostics,"8,800"
+Vitamin-B12,BioMed Diagnostics,"2,200"
+Zinc,BioMed Diagnostics,"1,000"
+eGFR,BioMed Diagnostics,500
+½ hr After Glucose (75gm glucose),BioMed Diagnostics,150
+APTT (BENTH),BioMed Diagnostics,800
+D - Dimer,BioMed Diagnostics,"2,000"
+INR,BioMed Diagnostics,500
+Blood culture tube,BioMed Diagnostics,350
+Collection Charge - 2,BioMed Diagnostics,500
+Collection Charge - 1,BioMed Diagnostics,300
+Needle (Butter fly),BioMed Diagnostics,30
+Needle (Vaccum Butter fly),BioMed Diagnostics,40
+PRP (Violet tube - 2 pc & Needle),BioMed Diagnostics,200
+"PRP tube (Red tube - 2 pc, 4ml & Needle)",BioMed Diagnostics,500
+Vacuum Tube (Black),BioMed Diagnostics,20
+Vacuum Tube (Blood culture),BioMed Diagnostics,350
+Vacuum Tube (Blue),BioMed Diagnostics,20
+Vacuum Tube (CT),BioMed Diagnostics,10
+Vacuum Tube (ESR),BioMed Diagnostics,30
+Vacuum Tube (Gray),BioMed Diagnostics,20
+Vacuum Tube (Green),BioMed Diagnostics,20
+Vacuum Tube (Red),BioMed Diagnostics,20
+Vacuum Tube (Violet),BioMed Diagnostics,20
+Anti-D titer,BioMed Diagnostics,600
+BT,BioMed Diagnostics,200
+Blood Film (PBF) (Cell Morphology),BioMed Diagnostics,300
+CBC,BioMed Diagnostics,400
+CBC with PBF,BioMed Diagnostics,500
+CT,BioMed Diagnostics,200
+Clot Retraction,BioMed Diagnostics,100
+ESR,BioMed Diagnostics,200
+FBC (CBC),BioMed Diagnostics,500
+FDP,BioMed Diagnostics,"1,200"
+Factor Assay VIII,BioMed Diagnostics,"1,000"
+Factor Assay- IX,BioMed Diagnostics,"1,000"
+Factor Assay- X,BioMed Diagnostics,"1,000"
+Factor Assay-V,BioMed Diagnostics,"1,000"
+Fibrinogen,BioMed Diagnostics,"1,000"
+Haemoglobin (Hb%),BioMed Diagnostics,200
+Hb electrophorasis,BioMed Diagnostics,"2,300"
+Hb% (Haemoglobin),BioMed Diagnostics,200
+"Hb%, TC, DC (BENTH)",BioMed Diagnostics,400
+LE Cells,BioMed Diagnostics,300
+MCH,BioMed Diagnostics,200
+MCHC,BioMed Diagnostics,200
+MCV,BioMed Diagnostics,200
+MP(Malarial Parasite),BioMed Diagnostics,200
+MP(Malarial Parasite)-ICT,BioMed Diagnostics,"1,500"
+PBF (Blood film / Cell Morphology),BioMed Diagnostics,450
+PCV (Pack cell volume)/HCT,BioMed Diagnostics,250
+Platelet count,BioMed Diagnostics,300
+Protein electrophorasis,BioMed Diagnostics,"2,300"
+Prothrombin time,BioMed Diagnostics,950
+RBC count (Total),BioMed Diagnostics,200
+RDW,BioMed Diagnostics,350
+Reticulocyte count,BioMed Diagnostics,350
+TC of WBC,BioMed Diagnostics,200
+TCE (Total Circulating Eosinophil),BioMed Diagnostics,300
+Total Circulating Eosinophil (TCE),BioMed Diagnostics,300
+PBF (BENTH),BioMed Diagnostics,450
+ACTH,BioMed Diagnostics,"2,000"
+AMH,BioMed Diagnostics,"4,200"
+Anti Thyroid Antibody,BioMed Diagnostics,"2,350"
+Anti Thyroid Antibody - Anti - TPO,BioMed Diagnostics,"1,200"
+Anti Thyroid Antibody - Anti - Tg,BioMed Diagnostics,"1,200"
+Cortisol (Serum),BioMed Diagnostics,"1,500"
+DHEA (Dehydroepiandrosterone),BioMed Diagnostics,"1,000"
+DHT (5alpha- Dihydrotestosterone),BioMed Diagnostics,"1,500"
+DHT (Dihydrotestosterone),BioMed Diagnostics,"1,500"
+Estrodiol,BioMed Diagnostics,"1,000"
+Estrogen,BioMed Diagnostics,"1,000"
+FSH,BioMed Diagnostics,"1,350"
+FT3 (Free T3 ),BioMed Diagnostics,"1,300"
+FT4 (Free T4 ),BioMed Diagnostics,"1,300"
+Free Testosterone (FT),BioMed Diagnostics,"1,600"
+Free Testosterone (FT),BioMed Diagnostics,"1,250"
+Growth Hormone,BioMed Diagnostics,"1,200"
+LH,BioMed Diagnostics,"1,350"
+PRL (Prolactin),BioMed Diagnostics,"1,150"
+PTH (Intact),BioMed Diagnostics,"1,450"
+Procalcitonin,BioMed Diagnostics,"4,000"
+Progesteron,BioMed Diagnostics,"1,200"
+Prolactin,BioMed Diagnostics,"1,150"
+SHBG,BioMed Diagnostics,"2,000"
+Serum Cortisol,BioMed Diagnostics,"1,150"
+Serum Erythropoietin,BioMed Diagnostics,"5,000"
+T3 (Triiodothyronie),BioMed Diagnostics,"1,100"
+T4 (Thyroxine),BioMed Diagnostics,"1,100"
+TSH,BioMed Diagnostics,"1,000"
+Testosterone (Total),BioMed Diagnostics,"1,000"
+Thyroglobulin,BioMed Diagnostics,"1,500"
+AFP (Alpha Feto Protein),BioMed Diagnostics,"1,500"
+ANA (Anti. Neuclear Antibody),BioMed Diagnostics,"1,450"
+ANF,BioMed Diagnostics,"1,450"
+Ab- HIV (ICT),BioMed Diagnostics,"1,200"
+Ab. HIV (ELISA),BioMed Diagnostics,"1,200"
+Anti- DNA,BioMed Diagnostics,"1,500"
+Anti- HBsAg (ELISA),BioMed Diagnostics,950
+Anti- HBsAg (ICT),BioMed Diagnostics,500
+Anti- HCV (ELISA),BioMed Diagnostics,"1,550"
+Anti- HEV IgM,BioMed Diagnostics,"1,350"
+Anti-H. Pylori IgG,BioMed Diagnostics,"1,500"
+Anti-HBeAg (ELISA),BioMed Diagnostics,"1,050"
+Anti. CCP Ab.,BioMed Diagnostics,"1,800"
+Anti. Dengue IgG,BioMed Diagnostics,800
+Anti. Dengue IgM,BioMed Diagnostics,800
+Anti. H. Pylory Antibody (ELISA),BioMed Diagnostics,"1,150"
+Anti. HAV IgM,BioMed Diagnostics,"1,350"
+Anti. HBs,BioMed Diagnostics,"1,250"
+Anti. HCV Ab. (ELISA),BioMed Diagnostics,"1,400"
+Anti. MuSK Antibody,BioMed Diagnostics,"11,500"
+Anti. Sperm Ab.(ASA),BioMed Diagnostics,800
+Anti. tTg (IgA) (Tissue Transglutaminase-IgA),BioMed Diagnostics,"1,200"
+Anti.Cardiolipin ab (ACA),BioMed Diagnostics,"1,000"
+Anti.HBc,BioMed Diagnostics,"1,550"
+Anti.Microsomal ab,BioMed Diagnostics,"1,000"
+Anti.Phospholipid Ab.(APA),BioMed Diagnostics,"12,000"
+Anti.Scl-70,BioMed Diagnostics,"1,950"
+Anti.Smith ab (ASA),BioMed Diagnostics,"1,000"
+Anti.Thyroglobulin Ab.,BioMed Diagnostics,"1,250"
+BNP,BioMed Diagnostics,"5,500"
+Beta hCG,BioMed Diagnostics,"1,200"
+C1-Esterase Inhibitor Protein Quantitation,BioMed Diagnostics,"7,000"
+C3,BioMed Diagnostics,"1,000"
+C4,BioMed Diagnostics,"1,000"
+CA 125,BioMed Diagnostics,"1,500"
+CA 15.3,BioMed Diagnostics,"1,550"
+CA 19.9,BioMed Diagnostics,"1,500"
+CEA,BioMed Diagnostics,"1,500"
+CMV IgG,BioMed Diagnostics,"1,000"
+CMV IgM,BioMed Diagnostics,"1,000"
+Chikongania,BioMed Diagnostics,"2,000"
+Chlamydia IgG,BioMed Diagnostics,"1,000"
+Cold Patch,BioMed Diagnostics,350
+Dengue NS1 Ag.,BioMed Diagnostics,300
+Free PSA,BioMed Diagnostics,"1,000"
+HAV IgM,BioMed Diagnostics,"1,200"
+HBc (Total),BioMed Diagnostics,"1,500"
+HBc IgM,BioMed Diagnostics,"1,650"
+HBeAg (ELISA),BioMed Diagnostics,"1,000"
+HBs Ab,BioMed Diagnostics,"1,050"
+HBsAg (ELISA),BioMed Diagnostics,"1,050"
+"HBsAg (ELISA)(Medical,UMUH)",BioMed Diagnostics,850
+HCV (ELISA),BioMed Diagnostics,"1,200"
+HCV (ICT),BioMed Diagnostics,500
+HIV,BioMed Diagnostics,"1,500"
+HIV - 1,BioMed Diagnostics,"1,000"
+HIV - 2,BioMed Diagnostics,"1,000"
+HLA B27,BioMed Diagnostics,"3,200"
+HSV I IgG,BioMed Diagnostics,"1,100"
+HSV I IgM,BioMed Diagnostics,"1,100"
+HSV II IgG,BioMed Diagnostics,"1,100"
+HSV II IgM,BioMed Diagnostics,"1,100"
+IGF - I,BioMed Diagnostics,"2,000"
+IL -6(Interleukin-6),BioMed Diagnostics,"2,800"
+IgA,BioMed Diagnostics,"1,000"
+IgE,BioMed Diagnostics,"1,000"
+IgG,BioMed Diagnostics,"1,000"
+IgM,BioMed Diagnostics,"1,000"
+Karyotype,BioMed Diagnostics,"8,000"
+Measles IgG,BioMed Diagnostics,"1,000"
+Measles virus IgM,BioMed Diagnostics,"1,000"
+Mumps virus IgM,BioMed Diagnostics,"1,000"
+PSA,BioMed Diagnostics,"1,250"
+Rubella IgG,BioMed Diagnostics,"1,000"
+Rubella IgM,BioMed Diagnostics,"1,000"
+SAT (Allergy test),BioMed Diagnostics,"6,500"
+SOD (Superoxide Dismutase),BioMed Diagnostics,"2,500"
+Scl 70 Antibody,BioMed Diagnostics,"1,950"
+Sodium Valpurate(Valpuric Acid),BioMed Diagnostics,"1,050"
+Torch Pannel:,BioMed Diagnostics,"8,000"
+Toxoplasma IgG,BioMed Diagnostics,"1,000"
+Toxoplasma IgM,BioMed Diagnostics,"1,000"
+cANCA,BioMed Diagnostics,"1,000"
+ds- DNA,BioMed Diagnostics,"1,500"
+pANCA,BioMed Diagnostics,"1,000"
+Quantiferon TB Gold,BioMed Diagnostics,"7,000"
+Anti. Acetylcholene Receptor Binding Ab.,BioMed Diagnostics,"10,000"
+BCR-ABL 1 Quantitative,BioMed Diagnostics,"15,000"
+BCR-ABL Qualitative,BioMed Diagnostics,"10,000"
+BRAF Real Time PCR,BioMed Diagnostics,"25,000"
+CALR (Real Time PCR),BioMed Diagnostics,"15,000"
+CMV DNA,BioMed Diagnostics,"8,000"
+Chromosomal brekage assay,BioMed Diagnostics,"8,000"
+Cytogenetic study of MDS panel,BioMed Diagnostics,"18,000"
+EGFR Real Time PCR,BioMed Diagnostics,"25,000"
+HBV-DNA Quantitative,BioMed Diagnostics,"8,000"
+"HCV RNA Genotyping(1a,1b,2a,3,4,5a & 6)",BioMed Diagnostics,"12,000"
+HCV RNA Quantitative,BioMed Diagnostics,"8,000"
+HIV-1 RNA Quantitative,BioMed Diagnostics,"8,000"
+HLA B27 DNA,BioMed Diagnostics,"3,000"
+HLA-A DNA BASED,BioMed Diagnostics,"7,500"
+"HLA-A, B, DR",BioMed Diagnostics,"18,000"
+HLA-B DNA BASED,BioMed Diagnostics,"7,500"
+HLA-DR DNA BASED,BioMed Diagnostics,"7,500"
+JAK 2 Exon-12 Mutation,BioMed Diagnostics,"10,000"
+JAK 2 Mutation Detection Real Time PCR,BioMed Diagnostics,"15,000"
+KRAS Real Time PCR,BioMed Diagnostics,"25,000"
+MPL (Real Time PCR),BioMed Diagnostics,"15,000"
+MTB DNA PCR,BioMed Diagnostics,"8,000"
+PML-RARA Qualitative,BioMed Diagnostics,"13,500"
+PML-RARA Quantitative Real Time PCR,BioMed Diagnostics,"15,000"
+T CELL / B CELL cross Match,BioMed Diagnostics,"6,000"
+WT1 Real Time PCR,BioMed Diagnostics,"20,000"
+ROS1,BioMed Diagnostics,"20,000"
+ICT- TB,BioMed Diagnostics,"1,000"
+MT (Mantoux test),BioMed Diagnostics,400
+TB IgA,BioMed Diagnostics,"1,000"
+TB IgG,BioMed Diagnostics,"1,000"
+TB IgM,BioMed Diagnostics,"1,000"
+PRP (Blue tube - 3 pc & Needle),BioMed Diagnostics,200
+APTT,BioMed Diagnostics,"1,000"
+ASO titre,BioMed Diagnostics,500
+ASO titre (BENTH),BioMed Diagnostics,500
+Anti Dengue (ICT),BioMed Diagnostics,500
+Anti. Chikongania,BioMed Diagnostics,"2,000"
+Blood group & Rh factor,BioMed Diagnostics,200
+"Blood group & Rh factor (Medical,UMUH)",BioMed Diagnostics,150
+CFT Filaria,BioMed Diagnostics,800
+CFT Hydatid,BioMed Diagnostics,500
+CFTKala Azar,BioMed Diagnostics,800
+CRP (C-Reactive Protein),BioMed Diagnostics,800
+CRP (C-Reactive protein) (Quantative),BioMed Diagnostics,800
+Coomb's test (Direct & Indirect),BioMed Diagnostics,800
+Dengue (ICT),BioMed Diagnostics,300
+Dengue(IgG & IgM),BioMed Diagnostics,300
+Febrile antigen/Triple antigen,BioMed Diagnostics,"1,300"
+Filaria (ICT),BioMed Diagnostics,"1,000"
+ICT Dengue(IgG & IgM),BioMed Diagnostics,"1,200"
+ICT For Filaria,BioMed Diagnostics,"1,000"
+ICT Kala-azar (Device),BioMed Diagnostics,"1,000"
+RA,BioMed Diagnostics,500
+RA test (BENTH),BioMed Diagnostics,500
+RF,BioMed Diagnostics,500
+Rh antibody titre,BioMed Diagnostics,"1,250"
+Rose Waaler,BioMed Diagnostics,"1,500"
+TPHA,BioMed Diagnostics,500
+TPHA (BENTH),BioMed Diagnostics,800
+Triple Antigen,BioMed Diagnostics,"1,125"
+VDRL,BioMed Diagnostics,500
+VDRL (Quantitative),BioMed Diagnostics,"1,000"
+Widal,BioMed Diagnostics,500
+CSF Study,BioMed Diagnostics,800
+Alcohol,BioMed Diagnostics,"1,000"
+Amphetamine,BioMed Diagnostics,"1,000"
+Cannabinoid,BioMed Diagnostics,"1,000"
+Carbamazepine,BioMed Diagnostics,"1,000"
+Cocaine,BioMed Diagnostics,"1,000"
+Digoxin,BioMed Diagnostics,"1,000"
+Opiates,BioMed Diagnostics,"1,000"
+Phenobarbital,BioMed Diagnostics,"1,000"
+Pheny toin,BioMed Diagnostics,"1,000"
+Valporic Acid,BioMed Diagnostics,"1,500"
+Pleural fluid for Cytology (Malignsnt cell),BioMed Diagnostics,"1,500"
+Scraping cytology from oral mucosa for M/C,BioMed Diagnostics,"1,000"
+Scraping cytology from oral mucosa for Fungus,BioMed Diagnostics,"1,000"
+Tissue for Histopath,BioMed Diagnostics,"1,000"
+Tissue for Histopath. Block & Slide return charge,BioMed Diagnostics,500
+Tissue for Histopath. Block return charge,BioMed Diagnostics,300
+Tissue for Histopath. Slide return charge,BioMed Diagnostics,300
+Tissue for Histopathology,BioMed Diagnostics,"3,500"
+Tissue for Histopathology (Big sample),BioMed Diagnostics,"3,000"
+Tissue for Histopathology (Large / Big sample),BioMed Diagnostics,"2,000"
+Tissue for Histopathology (Large sample),BioMed Diagnostics,"2,500"
+Tissue for Histopathology (Medium sample),BioMed Diagnostics,"1,500"
+Tissue for Histopathology (small sample),BioMed Diagnostics,"1,000"
+ALK -1(IHC),BioMed Diagnostics,"6,000"
+ALK Protein (IHC),BioMed Diagnostics,"6,000"
+Alpha AFP (IHC),BioMed Diagnostics,"6,000"
+BCL6,BioMed Diagnostics,"6,000"
+CALRETININ (IHC),BioMed Diagnostics,"6,000"
+CD 117,BioMed Diagnostics,"6,000"
+CD133,BioMed Diagnostics,"6,000"
+CD136,BioMed Diagnostics,"6,000"
+CD138,BioMed Diagnostics,"6,000"
+CD15,BioMed Diagnostics,"6,000"
+CD2,BioMed Diagnostics,"6,000"
+CD24,BioMed Diagnostics,"6,000"
+CD3,BioMed Diagnostics,"6,000"
+CD30,BioMed Diagnostics,"6,000"
+CD31,BioMed Diagnostics,"6,000"
+CD34,BioMed Diagnostics,"6,000"
+CD4,BioMed Diagnostics,"6,000"
+CD44,BioMed Diagnostics,"6,000"
+CD45,BioMed Diagnostics,"6,000"
+CD5,BioMed Diagnostics,"6,000"
+CD56,BioMed Diagnostics,"6,000"
+CD68,BioMed Diagnostics,"6,000"
+CD7,BioMed Diagnostics,"6,000"
+CD79 Alpha (IHC),BioMed Diagnostics,"6,000"
+CD8,BioMed Diagnostics,"6,000"
+CD99,BioMed Diagnostics,"6,000"
+CEA (IHC),BioMed Diagnostics,"6,000"
+CGA (Chromogranin- A),BioMed Diagnostics,"6,000"
+CK19,BioMed Diagnostics,"6,000"
+CK20,BioMed Diagnostics,"6,000"
+CK5,BioMed Diagnostics,"6,000"
+CK5/6,BioMed Diagnostics,"6,000"
+CK6,BioMed Diagnostics,"6,000"
+Cyclin D1,BioMed Diagnostics,"12,000"
+Desmin (IHC),BioMed Diagnostics,"6,000"
+E- Cadherin,BioMed Diagnostics,"6,000"
+EGFR (IHC),BioMed Diagnostics,"18,000"
+GCDFP (IHC),BioMed Diagnostics,"6,000"
+Glypican-3(IHC),BioMed Diagnostics,"6,000"
+HMB45 (IHC),BioMed Diagnostics,"6,000"
+Immunohisto - GIST,BioMed Diagnostics,"20,000"
+KAPPA (IHC),BioMed Diagnostics,"6,000"
+Ki 67,BioMed Diagnostics,"6,000"
+LAMDA (IHC),BioMed Diagnostics,"6,000"
+LCA,BioMed Diagnostics,"6,000"
+LMP (Epstein Barr Virus)(IHC),BioMed Diagnostics,"18,000"
+MLH-1(IHC),BioMed Diagnostics,"6,000"
+MSH-2(IHC),BioMed Diagnostics,"6,000"
+MSH-6 (IHC),BioMed Diagnostics,"6,000"
+MSI / MMR (IHC),BioMed Diagnostics,"20,000"
+Melan-A (IHC),BioMed Diagnostics,"6,000"
+Myeloperoxidase (IHC),BioMed Diagnostics,"6,000"
+Myogenin (IHC),BioMed Diagnostics,"6,000"
+NSE (IHC),BioMed Diagnostics,"6,000"
+Neuro Endocrine Panel,BioMed Diagnostics,"20,000"
+P16,BioMed Diagnostics,"6,000"
+PAX-5 (IHC),BioMed Diagnostics,"6,000"
+PD-L1(IHC),BioMed Diagnostics,"25,000"
+PDL-1 (IHC),BioMed Diagnostics,"6,000"
+PLAP (IHC),BioMed Diagnostics,"6,000"
+PMS-2(IHC),BioMed Diagnostics,"6,000"
+SYN(Synaptophysin)(IHC),BioMed Diagnostics,"6,000"
+Sarcoma Panel (IHC),BioMed Diagnostics,"25,000"
+VIMENTIN (IHC),BioMed Diagnostics,"6,000"
+WT1 (IHC),BioMed Diagnostics,"12,000"
+Anti. MTB,BioMed Diagnostics,"8,000"
+BCL2,BioMed Diagnostics,"6,000"
+BSAP,BioMed Diagnostics,"6,000"
+CD 10,BioMed Diagnostics,"6,000"
+CD 19,BioMed Diagnostics,"6,000"
+CD 20cy,BioMed Diagnostics,"6,000"
+"CD 45, LCA Clone 2B11+ PD7/26",BioMed Diagnostics,"6,000"
+"CD246, ALK Protein",BioMed Diagnostics,"6,000"
+Cytokeratin 5,BioMed Diagnostics,"6,000"
+Cytokeratin7,BioMed Diagnostics,"6,000"
+Cytopathology per specimen,BioMed Diagnostics,"1,200"
+ER,BioMed Diagnostics,"5,000"
+"ER, PR, HER2",BioMed Diagnostics,"14,000"
+"ER, PR, HER2, Ki67, ECadherin",BioMed Diagnostics,"22,000"
+HER2,BioMed Diagnostics,"5,000"
+P53,BioMed Diagnostics,"6,000"
+P63,BioMed Diagnostics,"6,000"
+PR,BioMed Diagnostics,"5,000"
+S100,BioMed Diagnostics,"6,000"
+TTF-1,BioMed Diagnostics,"6,000"
+USG Guided FNAC test,BioMed Diagnostics,"1,200"
+Cold Patch test,BioMed Diagnostics,350
+SARS-COV2 (COVID- 19)Ag,BioMed Diagnostics,700
+Aural Swab C/S (BENTH),BioMed Diagnostics,700
+Blood C/S,BioMed Diagnostics,"2,250"
+CSF-C/S,BioMed Diagnostics,700
+Conjunc.Swab-C/S,BioMed Diagnostics,700
+Ear swab-C/S,BioMed Diagnostics,700
+Ear swab-C/S (BENTH),BioMed Diagnostics,600
+HVS- C/S,BioMed Diagnostics,700
+Hair Plucking for Fungus Culture,BioMed Diagnostics,500
+LVS - C/S,BioMed Diagnostics,700
+Nail cliping for fungus Culture,BioMed Diagnostics,600
+Nasal swab-C/S,BioMed Diagnostics,750
+P/S-C/S (Prostetic smear),BioMed Diagnostics,700
+Penil swab- C/S,BioMed Diagnostics,700
+Penile Swab for Fungus Culture.,BioMed Diagnostics,600
+Perianal swab C/S,BioMed Diagnostics,700
+Pleural fluid-C/S,BioMed Diagnostics,700
+Pus AFB C/S,BioMed Diagnostics,750
+Pus C/S,BioMed Diagnostics,700
+Semen C/S,BioMed Diagnostics,700
+Skin scraping for Fungal Culture,BioMed Diagnostics,600
+Sputum- C/S,BioMed Diagnostics,700
+Stool C/S,BioMed Diagnostics,700
+Throat swab-C/S,BioMed Diagnostics,750
+Tongue swab- C/S,BioMed Diagnostics,700
+Umbilical swab- C/S,BioMed Diagnostics,700
+Urethral discharge- C/S,BioMed Diagnostics,700
+Urethral pus C/S.,BioMed Diagnostics,700
+Urethral pus Gram stain.,BioMed Diagnostics,400
+Urine C/S,BioMed Diagnostics,600
+Wound pus C/S,BioMed Diagnostics,700
+Wound swab for fungus Culture.,BioMed Diagnostics,600
+Wound swab for fungus ME,BioMed Diagnostics,400
+Wound swab- C/S,BioMed Diagnostics,700
+Skin Slit C/S,BioMed Diagnostics,700
+Skin Slit gram stain,BioMed Diagnostics,400
+Tracheostomy tube swab C/S(BENTH),BioMed Diagnostics,600
+Tzanck Gram stain,BioMed Diagnostics,400
+CSF-Gram Stain,BioMed Diagnostics,400
+Conjunc.Swab-Gram stain,BioMed Diagnostics,400
+Ear swab-Gram stain,BioMed Diagnostics,400
+HVS for wet film.,BioMed Diagnostics,400
+HVS- Gram stain,BioMed Diagnostics,400
+HVS-RME / RE,BioMed Diagnostics,300
+LVS - Gram stain,BioMed Diagnostics,400
+LVS - RME / RE,BioMed Diagnostics,300
+LVS for wet film,BioMed Diagnostics,400
+Lice ME / RME,BioMed Diagnostics,300
+Nasal swab ME/ RME,BioMed Diagnostics,300
+Nasal swab-Gram stain,BioMed Diagnostics,400
+P/S (Prostetic smear)-AFB stain,BioMed Diagnostics,400
+P/S (Prostetic smear)-Gram stain,BioMed Diagnostics,400
+Paps Smear,BioMed Diagnostics,"1,000"
+Penil Swab for Gram stain,BioMed Diagnostics,400
+Pleural fluid-Gram Stain,BioMed Diagnostics,400
+Pus AFB stain,BioMed Diagnostics,400
+Pus- Gram stain,BioMed Diagnostics,400
+Semen-gram stain,BioMed Diagnostics,400
+Skin Slit smear AFB form Ear lobule.,BioMed Diagnostics,300
+Skin Slit smear AFB form nasal mucosa/ Lesion.,BioMed Diagnostics,300
+Skin scraping for RME / RE,BioMed Diagnostics,400
+Skin scraping for fungal hyphi infaction,BioMed Diagnostics,400
+Skin scraping for sarcoptis scabi,BioMed Diagnostics,400
+Sputum AFB Stain,BioMed Diagnostics,400
+Sputum AFB Stain (BENTH),BioMed Diagnostics,350
+Sputum for RME(Eosinophil),BioMed Diagnostics,400
+Sputum-Gram stain,BioMed Diagnostics,400
+Throat swab- AFB stain,BioMed Diagnostics,400
+Throat swab- KLB Stain,BioMed Diagnostics,400
+Throat swab-Gram stain,BioMed Diagnostics,400
+Tracheostomy tube swab gram stain,BioMed Diagnostics,300
+Umbilical swab- Gram stain,BioMed Diagnostics,400
+Urethral discharge Gram stain.,BioMed Diagnostics,400
+Urine AFB Stain,BioMed Diagnostics,400
+Wound pus gram stain,BioMed Diagnostics,400
+Wound swab- RME,BioMed Diagnostics,400
+Anagen: Telogen Ratio/ 24hrs. hair count,BioMed Diagnostics,600
+Black hair ME,BioMed Diagnostics,300
+Conjunc.Swab fungus ME,BioMed Diagnostics,400
+Hair Lick / Pediculosis,BioMed Diagnostics,400
+Hair Plucking for fungus RME,BioMed Diagnostics,400
+Hair Structure,BioMed Diagnostics,300
+Hair analysis and 24 hrs.count,BioMed Diagnostics,600
+Hair for melanin,BioMed Diagnostics,300
+Nail cliping- Fungus ME,BioMed Diagnostics,400
+Penil swab- Fungus ME,BioMed Diagnostics,400
+Perianal swab For Fngus Culture.,BioMed Diagnostics,500
+Perianal swab For Fngus ME,BioMed Diagnostics,300
+Red hair ME,BioMed Diagnostics,300
+Skin scraping forFungus RME,BioMed Diagnostics,400
+Throat Swab Fungus Culture,BioMed Diagnostics,600
+Throat Swab Fungus RME / ME,BioMed Diagnostics,400
+Tongue swab for Fungus Culture,BioMed Diagnostics,600
+Tongue swab- Fungus ME,BioMed Diagnostics,400
+Umbilical swab- Fungus Culture.,BioMed Diagnostics,600
+Umbilical swab- Fungus ME,BioMed Diagnostics,400
+White hair ME,BioMed Diagnostics,300
+Pathergy Test,BioMed Diagnostics,300
+Chikungunya virus (PCR),BioMed Diagnostics,"5,000"
+Dengue (PCR),BioMed Diagnostics,"5,000"
+HPV,BioMed Diagnostics,"5,000"
+MTB DNA,BioMed Diagnostics,"8,000"
+Tropical Fever Core (PCR),BioMed Diagnostics,"6,000"
+Zika virus (PCR),BioMed Diagnostics,"5,000"
+ALK Mutation (PCR),BioMed Diagnostics,"20,000"
+BARAF (PCR),BioMed Diagnostics,"30,000"
+EGFR (PCR),BioMed Diagnostics,"25,000"
+JAK2 Mutation Detection (V 617F / Exon- 14),BioMed Diagnostics,"15,000"
+KRAS (PCR),BioMed Diagnostics,"25,000"
+N-Myc Detection (PCR),BioMed Diagnostics,"15,000"
+PML-RARA Quantitative,BioMed Diagnostics,"15,000"
+WT1(Wilms tumor,BioMed Diagnostics,"15,000"
+Bone & Soft Tissue Sarcoma Panel,BioMed Diagnostics,"20,000"
+Brain Tumor Panel,BioMed Diagnostics,"20,000"
+Breast Cancer Panel,BioMed Diagnostics,"14,000"
+GI Tract Carcinoma Panel,BioMed Diagnostics,"16,000"
+Gynecological Carcinoma Panel,BioMed Diagnostics,"18,000"
+Head & Neck Cancers,BioMed Diagnostics,"16,000"
+Lung Cancer Panel,BioMed Diagnostics,"24,000"
+Lymphoma Panel,BioMed Diagnostics,"24,000"
+Renal Carcinoma Panel,BioMed Diagnostics,"16,000"
+Undifferentiated Carcinoma,BioMed Diagnostics,"16,000"
+PDL 1,BioMed Diagnostics,"18,000"
+BRCA - 1,BioMed Diagnostics,"30,000"
+BRCA - 2,BioMed Diagnostics,"30,000"
+CMV (rt PCR)- Quantative,BioMed Diagnostics,"8,000"
+Cross match- B-cell,BioMed Diagnostics,"6,000"
+Cross match- T-cell,BioMed Diagnostics,"6,000"
+Cystic Fibrosis Transmembrane Conductance Regulator(CFTR) GeneAnalysis,BioMed Diagnostics,"18,000"
+Gene Xpert MTB,BioMed Diagnostics,"5,500"
+HSV(Type - I & II)- Qualitative,BioMed Diagnostics,"6,000"
+PIK3CA Real Time PCR,BioMed Diagnostics,"20,000"
+SARS-COV2 (COVID- 19) rt PCR,BioMed Diagnostics,"3,000"
+VZV (rt PCR)- Quantative,BioMed Diagnostics,"8,000"
+BCR-ABL 1,BioMed Diagnostics,"15,000"
+Colon panel,BioMed Diagnostics,"90,000"
+FISH (HER-2 neu),BioMed Diagnostics,"25,000"
+NRAS,BioMed Diagnostics,"25,000"
+Dressing Charge - 1,BioMed Diagnostics,"2,000"
+Dressing Charge - 2,BioMed Diagnostics,"1,000"
+Dressing Charge - 3,BioMed Diagnostics,500
+Dressing Charge - 4,BioMed Diagnostics,"1,500"
+Semen Analysis,BioMed Diagnostics,400
+CSF Test,BioMed Diagnostics,350
+Tissue for Histopathology Test(Review - 2 slide),BioMed Diagnostics,"1,200"
+Pap Smear test,BioMed Diagnostics,"1,200"
+Pathergy test,BioMed Diagnostics,300
+Semen Analysis test,BioMed Diagnostics,"1,000"
+OBT,BioMed Diagnostics,350
+R/ S (Redusing Substance),BioMed Diagnostics,200
+Stool R/E,BioMed Diagnostics,200
+Stool R/S,BioMed Diagnostics,200
+Urine Protein Creatinine Ratio,BioMed Diagnostics,"1,050"
+24 hrs.urine Total protein,BioMed Diagnostics,750
+Benjones protein,BioMed Diagnostics,"1,050"
+Bile pigment,BioMed Diagnostics,250
+Bile salt,BioMed Diagnostics,250
+Ketone body,BioMed Diagnostics,250
+Pregnancy test,BioMed Diagnostics,250
+Specific Gravity,BioMed Diagnostics,300
+Uirne RBC,BioMed Diagnostics,120
+Urine Albumim,BioMed Diagnostics,50
+Urine PH,BioMed Diagnostics,400
+Urine RE / RME,BioMed Diagnostics,300
+Urine Sugar,BioMed Diagnostics,50
+Urine wet film (Trichomonas),BioMed Diagnostics,400
+Urobilinogen,BioMed Diagnostics,250
+Uroflowmetry,BioMed Diagnostics,"1,000"
+24 hrs. Urinary CCR,BioMed Diagnostics,"1,000"
+24 hrs. Urinary Volume,BioMed Diagnostics,150
+24 hrs. Urine Phosphate (PO4),BioMed Diagnostics,650
+24 hrs. Urine Total Protein,BioMed Diagnostics,650
+24 hrs. Urine Uric Acid,BioMed Diagnostics,650
+NGAL,BioMed Diagnostics,"2,458"
+NGAL (Research test-85pcs),BioMed Diagnostics,"209,000"
+Urine ACR,BioMed Diagnostics,"2,100"
+Urine Acetone,BioMed Diagnostics,300
+Urine Amylase,BioMed Diagnostics,"1,000"
+Urine CR-CL Test.,BioMed Diagnostics,300
+Urine Calcium,BioMed Diagnostics,400
+Urine Creatinine,BioMed Diagnostics,400
+Urine Ketone body,BioMed Diagnostics,500
+Urine Micro Albumin.,BioMed Diagnostics,"1,500"
+Urine PO4,BioMed Diagnostics,300
+Urine Potassium (K+),BioMed Diagnostics,300
+Urine Sodium (Na+),BioMed Diagnostics,300
+Urine Total Protein,BioMed Diagnostics,400
+Urine Total protein(UTP),BioMed Diagnostics,750
+Urine Uric Acid (Spot Urine),BioMed Diagnostics,400

@@ -29,12 +29,13 @@ def insert(name, mrp, discount, price, provider_id):
 
 
 def app():
-    df = pd.read_csv('biomed-test-list.csv')
+    df = pd.read_csv('tests.csv')
 
     for index, row in df.iloc[0:].iterrows():
         mrp = float(row['MRP'].strip().replace(',', ''))
+        provider_id = 1
 
-        insert(row['Name'].strip(), mrp, 0, mrp, 3)
+        insert(row['Name'].strip(), mrp, 0, mrp, provider_id)
 
 
 if __name__ == '__main__':
